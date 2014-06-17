@@ -2,7 +2,7 @@
     "use strict";
 
     var jsFiddle = {},
-        embed = '<iframe width="100%" height="300" src="http://jsfiddle.net/$1/embedded/result,js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>';
+        embed = '<iframe width="100%" height="300" src="http://jsfiddle.net/$1embedded/result,js,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>';
 
 
     jsFiddle.parse = function(postContent, callback) {
