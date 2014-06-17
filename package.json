@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-jsfiddle",
+  "version": "0.0.1",
+  "description": "NodeBB jsFiddle Plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5mith/nodebb-plugin-jsfiddle"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "jsfiddle",
+    "embed",
+  ],
+  "author": {
+    "name": "a5mith",
+    "email": "aaronsmith91@sky.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/a5mith/nodebb-plugin-jsfiddle/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-jsfiddle@0.0.1",
+  "_from": "nodebb-plugin-jsfiddle@~0.0.1"
+}

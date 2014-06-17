@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-jsfiddle",
+	"name": "NodeBB jsFiddle Plugin",
+	"description": "NodeBB Plugin that allows users to embed jsFiddle sets inline in their posts.",
+	"url": "https://github.com/a5mith/nodebb-plugin-jsfiddle",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
+	],
+	"staticDirs": {
+        "css": "./static"
+    }
+
+}
